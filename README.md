@@ -35,7 +35,7 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![z gout](https://user-images.githubusercontent.com/94187572/147853480-9ae4c8d9-633e-4253-ab04-7f6c53aa277c.png)
 
 
 ## Result:
